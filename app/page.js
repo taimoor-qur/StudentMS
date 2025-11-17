@@ -15,7 +15,7 @@ export default function Home() {
       <h1 className="text-2xl">Welcome to Student Portal</h1>
       <p className="text-green-500">Student, courses and enrollment management area</p>
       <p>No Of Students</p>
-
+      <p>12</p>
     </div>
   );
 }
